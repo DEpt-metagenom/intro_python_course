@@ -1,5 +1,5 @@
 # Summary
-This repository is for the materials for the introductory Python ("Object-oriented and functional programming") course, which is part of the Healthcare Bioinformations MSc programme.
+This repository is for the materials for the introductory Python ("Object-oriented and functional programming") course, which is part of the Healthcare Bioinformatics MSc programme.
 Lecture notes for the course will be shared here, this is where students should upload their programming projects, and issues can be used to document tasks and to answer specific questions.
 
 ## Lecture Notes
